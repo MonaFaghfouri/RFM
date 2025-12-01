@@ -236,12 +236,12 @@ Please open an issue if you find bugs or want enhancements.
 
 ---
 
-## 📜 License
+📜 License
 
-This project is released under the **MIT License**.
+This project is released under the MIT License.
 
-```
-# 👤 Author
+👤 Author
+
 Mona Faghfouri Azar
 Data Analyst | NLP Researcher & Data Analyst
 GitHub: @MonaFaghfouri
